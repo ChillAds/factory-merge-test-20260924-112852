@@ -1,2 +1,2 @@
 print('ok')
-# success
+# refusal
